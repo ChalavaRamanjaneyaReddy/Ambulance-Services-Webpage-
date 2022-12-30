@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4d5cc786.css",
+    "main.js": "/static/js/main.c09b5416.js",
+    "static/media/Ambulance.jpg": "/static/media/Ambulance.1729e669c92cf6f9d775.jpg",
+    "static/media/air.png": "/static/media/air.ab77e8a10d8bbb69c150.png",
+    "static/media/air-2.jpg": "/static/media/air-2.7899a4707a2ec425cae4.jpg",
+    "static/media/corporate3.png": "/static/media/corporate3.828246f5e4457795f18c.png",
+    "static/media/cto.jpg": "/static/media/cto.9e0e2ff49baef0312701.jpg",
+    "static/media/HERE-FOR YOU.png": "/static/media/HERE-FOR YOU.162ebe9b15db4a25ebb3.png",
+    "static/media/blog2.png": "/static/media/blog2.648dbabb575096d08444.png",
+    "static/media/corporate2.png": "/static/media/corporate2.c24ad8f7a25f8c360238.png",
+    "static/media/corporate1.png": "/static/media/corporate1.df96b3032f3ba0193d60.png",
+    "static/media/banner02.jpg": "/static/media/banner02.ee81e85cf29f125f0dfb.jpg",
+    "static/media/blog1.png": "/static/media/blog1.dd2aa1ab0472fe0a747d.png",
+    "static/media/patient-transport.png": "/static/media/patient-transport.dff692e8b639a667480b.png",
+    "static/media/blog3.png": "/static/media/blog3.fb5a8f5f2664f7196967.png",
+    "static/media/careers.png": "/static/media/careers.200e419c9bcd56c8869f.png",
+    "static/media/ceo.jpg": "/static/media/ceo.81ea13f7f373dc4f4a8a.jpg",
+    "static/media/HYD.png": "/static/media/HYD.b698dc1a1860daa7be50.png",
+    "static/media/mrn.png": "/static/media/mrn.7cc11f16ae1a6163c7a7.png",
+    "static/media/logo.jpg": "/static/media/logo.d299b47e7e5f083fbf37.jpg",
+    "static/media/sri h.png": "/static/media/sri h.a14706461cca7cb25eb5.png",
+    "static/media/kh.png": "/static/media/kh.dfe35e0d0ee7d6d96931.png",
+    "static/media/usha.png": "/static/media/usha.ec02ca88804160a1dff3.png",
+    "static/media/cs.png": "/static/media/cs.b049c907b6801d0747b8.png",
+    "static/media/sk.png": "/static/media/sk.6af6e6eb34de829b3667.png",
+    "static/media/ks.png": "/static/media/ks.c39cd26f32707705503f.png",
+    "static/media/care.png": "/static/media/care.e66b2efff3970acfba08.png",
+    "static/media/om.png": "/static/media/om.0832c1aec1802c62844a.png",
+    "index.html": "/index.html",
+    "main.4d5cc786.css.map": "/static/css/main.4d5cc786.css.map",
+    "main.c09b5416.js.map": "/static/js/main.c09b5416.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4d5cc786.css",
+    "static/js/main.c09b5416.js"
+  ]
+}
